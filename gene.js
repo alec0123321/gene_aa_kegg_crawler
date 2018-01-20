@@ -45,5 +45,5 @@ fs.readFile('gene_list.txt', function(error, content){
       }//if
     }//for
   }//else
-  
+
 })//fs
